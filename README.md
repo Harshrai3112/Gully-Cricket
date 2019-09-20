@@ -7,3 +7,6 @@ By click you through the ball.
 
 #Batsman Control
 batsman can hit the ball by pressing the "space bar".
+
+#starting game
+You can  open the game in browser by opening the index.html file.
